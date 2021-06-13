@@ -1,0 +1,89 @@
+ body{
+	background-image: url(../images/1.jpg);
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#encabezado{
+	color:black;
+	/*font: 150% sans-serif;*/
+	text-align: center;
+	border-radius: 10px;
+	width: 80%;
+	margin: 1% 10% 10px;
+	height: 100px;
+	background-color:#D7BDE2;
+}
+
+#piepagina{
+	color:black;
+	text-align: center;
+	border-radius: 10px;
+	width: 80%;
+	margin: 30% 10% 20px;
+	height: 70px;
+	background-color: #D7BDE2;
+	clear: both;
+}
+
+#seccion1{
+	float: left;
+	border-radius: 10px;
+	height: 350px;
+	width: 38%;
+	margin: 0 0 0 10%;
+	background-color: #D6EAF8;
+	padding: 10px 10px 10px 10px;
+	
+}
+
+#seccion2{
+	float: right;
+	border-radius: 10px;
+	width: 38%;
+	height: 350px;
+	margin: 0 10% 0 0;
+	background-color: #FADBD8;
+	padding: 10px 10px 10px 10px;
+}
+
+#tabla{
+    color:black;
+    text-align: center;
+
+}
+
+.round_table{
+    border-collapse:separate;
+    border-spacing: 10;
+    border:solid black 1px;
+    border-radius:15px;
+    -moz-border-radius:10px;
+    -webkit-border-radius: 5px;    
+}
+
+#seccion3{
+	float: left;
+	border-radius: 10px;
+	width: 38%;
+	height: 350px;
+	margin: 1% 0 0 10%;
+	background-color: #D6EAF8;
+	padding: 10px 10px 10px 10px;
+}
+
+#seccion4{
+	float: right;
+	border-radius: 10px;
+	width: 38%;
+	height: 350px;
+	margin: 1% 10% 0 0;
+	background-color: #FADBD8;
+	padding: 10px 10px 10px 10px;
+
+}
+
+#horario{
+	}
+
+#mascotas{
+	}
